@@ -2,7 +2,10 @@
 
 ## About Me:
 
-I am a Data Scientist and an Epidemiologist working in Hartford, CT.
+I am a Data Scientist and an Epidemiologist working in Hartford, CT.  I am  passionate about
+the R programming language, Linux and other free and open-source software (FOSS).  I both enjoy and strive to bring 
+many of the amazing qualities that encompass FOSS to my little neck of the woods in state government.  It is my hope
+to make the data we use for decision making, and the tooling surrounding all of that more open and reproducible.
 
   - 🔭 I’m currently working on the `distiller` and `strata` R packages
   - 🌱 I’m currently learning Rust
