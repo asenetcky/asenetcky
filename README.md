@@ -5,7 +5,7 @@
 I am a Data Scientist and an Epidemiologist working in Hartford, CT.
 
   - 🔭 I’m currently working on the `distiller` and `strata` R packages
-  - 🌱 I’m currently learning learning Rust
+  - 🌱 I’m currently learning Rust
 
 <!--
 **asenetcky/asenetcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
