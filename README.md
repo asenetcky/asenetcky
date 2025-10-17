@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="667738a6-dbaf-460f-8c74-96e9f6379783" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## About Me:
 
 I am a Data Scientist and an Epidemiologist working in Hartford, CT.  I am  passionate about
