@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="667738a6-dbaf-460f-8c74-96e9f6379783" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![GitHub Foundations Badge](/assets/github-foundations-badge.png)](https://www.credly.com/badges/667738a6-dbaf-460f-8c74-96e9f6379783)
 
 ## About Me:
 
@@ -27,20 +27,3 @@ regex and natural language processing tools.
 During the pandemic I switched to daily reporting on the Covid-19 to the Governor's office, CT public and our CT Open Data Portal.
 It was during this time that the team and I helped usher in an age at DPH of broader use of automation, 
 Data Science, and data pipelines to deliver timely information to key stakeholders and reduce the considerable burden on DPH staff.
-
-
-
-<!--
-**asenetcky/asenetcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
